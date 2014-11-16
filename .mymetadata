@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="BaseMode_OpenTok"
+  id="myeclipse.1406099236144"
+  context-root="//BaseMode_OpenTok"
+  j2ee-spec="6.0"
+  archive="BaseMode_OpenTok.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
